@@ -1,0 +1,6 @@
+{
+  "title": "GOT-api-instarem",
+  "database": {
+    "uri" : "mongodb://flingflich:aQNNGMeGpFVVyBJyjaX1@ds155299.mlab.com:55299/green-smoke"
+  }
+}
