@@ -7,7 +7,7 @@ export class battleInterface {
   initData() {
     Battle.find({}, (err, res) => {
       if(res.length < 1) {
-        //** Galėčiau ir protiniau kažkaip**/
+        //** Galėčiau ir protingiau kažkaip**/
         const csvPath = path.join(__dirname, '/battles.csv') 
         console.log(csvPath)
         csv()
